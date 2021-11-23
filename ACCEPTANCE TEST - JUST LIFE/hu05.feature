@@ -1,4 +1,4 @@
-Feature: HU05: Como paciente, quiero registrar los alimentos que haya conComo paciente, quiero registrar los alimentos que haya conComo paciente, quiero registrar los alimentos que haya Coconsumido durante el día para tener un cálculo de las calorías consumidas durante el día.sumido durante el día para tener un cálculo de las calorías consumidas durante el día.sumido durante el día para tener un cálculo de las calorías consumidas durante el día.
+Feature: HU05: Como paciente, quiero registrar los alimentos que haya consumido durante el día para tener un cálculo de las calorías consumidas.
     Scenario: E01: Alimento seleccionado
         TA01
         Given que me encuentro en el apartado de registros de consumo diario
